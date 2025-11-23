@@ -1,0 +1,302 @@
+[
+  {
+    "round": 1,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Starting arbitrarily with Red to probe the two-round repetition-based cyclic pattern feedback.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Starting round; first move to establish pattern.",
+    "score": 0
+  },
+  {
+    "round": 2,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Repeating Red likely forms the controlled repetition pattern required over the two rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Player 1 may alternate after mutual Red.",
+    "score": 0
+  },
+  {
+    "round": 3,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Try alternating from previous consistent Red choice; pattern likely switches color second round.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "First round both Red scored, pattern likely requires matching Player 1's previous choice.",
+    "score": 0
+  },
+  {
+    "round": 4,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Testing if correct pattern is constant Red; last constant attempts not jointly matched.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern may require alternating colors after initial match.",
+    "score": 0
+  },
+  {
+    "round": 5,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Cyclic two-round pattern; start with Red again, assuming other adapts oppositely from failures.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Both must match the same color each round. Player 1 chose Red last.",
+    "score": 0
+  },
+  {
+    "round": 6,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Try opposite of my last matching attempt; two-round cycle likely alternates colors.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Player 1 repeated Red twice; pattern may require alternating responses.",
+    "score": 1
+  },
+  {
+    "round": 7,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Last success was Blue-Blue; cyclic two-round pattern suggests repeating Blue again.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Both players must choose the same color as in round 6.",
+    "score": 1
+  },
+  {
+    "round": 8,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern flips after scoring: same color then opposite next round; choose opposite of Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern requires both players to choose same color, alternating after each correct round.",
+    "score": 1
+  },
+  {
+    "round": 9,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-step cycle: after a correct Blue-Blue round, next synchronized choice switches color.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both chose Blue twice in a row (Rounds 6-7 pattern).",
+    "score": 1
+  },
+  {
+    "round": 10,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-round cycle; scoring occurred on second Blue, so alternate now.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both chose Blue in round 6. Pattern seems to require mutual Blue.",
+    "score": 1
+  },
+  {
+    "round": 11,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-round cycle: both Blue, then mismatch; we\u2019re on mismatch round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both chose Blue in round 6, so repeat Blue.",
+    "score": 1
+  },
+  {
+    "round": 12,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-round cycle: first both Blue scores, then both Red scores.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both chose Blue in round 6. Pattern likely requires both Blue.",
+    "score": 1
+  },
+  {
+    "round": 13,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-round cycle; after scoring Blue, next correct synchronized choice should be Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Only scored when both chose same color twice in a row after round 6.",
+    "score": 1
+  },
+  {
+    "round": 14,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern likely alternates every two rounds; after last Red streak, Blue should realign.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both chose Blue in Round 6. Pattern seems to require both Blue.",
+    "score": 2
+  },
+  {
+    "round": 15,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Last two correct rounds were both Blue-Blue; pattern\u2019s two-cycle likely repeats Blue-Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round starting from round 6.",
+    "score": 2
+  },
+  {
+    "round": 16,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is cyclic two-rounds; after scoring on Blue-Blue, alternate to Red next.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every two rounds. Last correct was Blue, so repeat.",
+    "score": 2
+  },
+  {
+    "round": 17,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is cyclic two-rounds: after a Blue-scoring round, next correct synchronized choice is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both Blue twice in a row, then resets after scoring.",
+    "score": 2
+  },
+  {
+    "round": 18,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is cyclic: first round both Blue, second round switch; last was Blue round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 14, so now same.",
+    "score": 2
+  },
+  {
+    "round": 19,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern scores only when both pick Blue immediately after a non-scoring Blue round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every 2 rounds. Last correct was Blue.",
+    "score": 2
+  },
+  {
+    "round": 20,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern seems two Blues, brief break, then two Blues again; continuing Blue accordingly.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every two rounds. Last correct was round 14, so repeat.",
+    "score": 2
+  },
+  {
+    "round": 21,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern seems two-round cycle: both choose Blue only on the *second* round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern scores when both choose same color after alternating rounds.",
+    "score": 2
+  },
+  {
+    "round": 22,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Alternation pattern: first scoring pair Blue, second scoring pair should be Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both Blue in rounds 6 and 14, repeat that.",
+    "score": 2
+  },
+  {
+    "round": 23,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two-round cycle: first Blue syncs, then Red syncs, repeating.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every two rounds. Last correct was both Blue.",
+    "score": 2
+  },
+  {
+    "round": 24,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern scores when both pick Blue immediately after any non-Blue-matching prior round outcome.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern requires both players to match Blue twice in a row.",
+    "score": 2
+  },
+  {
+    "round": 25,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "After each scoring double-Blue, next correct synchronized move should switch to Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern requires both to choose same color twice in a row after scoring.",
+    "score": 3
+  },
+  {
+    "round": 26,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "After a Blue-correct, pattern shifts; next scoring alignment historically occurred with Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is both Red in first round, then both Blue in second round.",
+    "score": 3
+  },
+  {
+    "round": 27,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Successful pattern alternates between double Blue and double Red; last success was Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Correct rounds: both Blue, then both Red. Next should match Player 1's last (Red).",
+    "score": 3
+  },
+  {
+    "round": 28,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "After a correct Red pair, pattern seems to switch; now expecting Blue repetition.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is both choose same color every two rounds; last correct was both Red.",
+    "score": 3
+  },
+  {
+    "round": 29,
+    "player_1": "chatgpt",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern scores when both repeat previous round\u2019s matching color; last score was Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Correct rounds when both chose same color twice in a row after a correct.",
+    "score": 3
+  },
+  {
+    "round": 30,
+    "player_1": "chatgpt",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Scoring alternates color pairs; after Red-Red score on 25, pattern suggests Blue-Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Only scored when both match after previous match. Last match was Red-Red, so now Blue-Blue.",
+    "score": 4
+  }
+]
