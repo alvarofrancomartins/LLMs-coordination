@@ -1,0 +1,22 @@
+[
+  {
+    "round": 1,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Initial guess to start pattern detection.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Starting round; initial choice to establish pattern.",
+    "score": 0
+  },
+  {
+    "round": 2,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Repeat my first choice to test if pattern is matching initial selections.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Player 1 chose Blue first; maybe I should mirror their last move.",
+    "score": 0
+  }
+]

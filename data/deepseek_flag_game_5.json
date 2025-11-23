@@ -1,0 +1,302 @@
+[
+  {
+    "round": 1,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "First move; starting simple to establish baseline pattern.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Starting pattern likely Red first for symmetry.",
+    "score": 0
+  },
+  {
+    "round": 2,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating after mutual Red to test pattern.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern may alternate; first round matched, now switch.",
+    "score": 1
+  },
+  {
+    "round": 3,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern is both players match previous round's color.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates: Red, Blue, repeat.",
+    "score": 1
+  },
+  {
+    "round": 4,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is alternate colors after matching twice.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is match Player 1's previous choice. They chose Blue last round.",
+    "score": 1
+  },
+  {
+    "round": 5,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is both same color each round. Last correct was both Blue. Alternate.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: match Player 1's previous round choice.",
+    "score": 1
+  },
+  {
+    "round": 6,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern is both choose same color as last correct round.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is match previous round's color. Player 1 chose Red last round.",
+    "score": 1
+  },
+  {
+    "round": 7,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is both choose same color as last correct round.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is match Player 1's previous choice. Last was Blue, so choose Red.",
+    "score": 1
+  },
+  {
+    "round": 8,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern seems to be both choose same color as in round 2.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both same color in alternating rounds. Last same was Red, now Blue.",
+    "score": 2
+  },
+  {
+    "round": 9,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: both choose same color every other round. Rounds 2 and 8 correct.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every other round. Last same was Red, now Blue.",
+    "score": 2
+  },
+  {
+    "round": 10,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is both choose same color every other round. Last correct was Blue, now switch to Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color every other round (rounds 2, 4, 6, 8).",
+    "score": 3
+  },
+  {
+    "round": 11,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern: both choose same color every other round. Last correct was Red, so now Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is both choose same color every two rounds. Last correct was Red in round 10.",
+    "score": 3
+  },
+  {
+    "round": 12,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern is both choose same color every two rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: match Player 1's choice from two rounds ago.",
+    "score": 4
+  },
+  {
+    "round": 13,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: both choose same color every other round.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: alternate colors after matching twice. Last match was Blue, so switch.",
+    "score": 4
+  },
+  {
+    "round": 14,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: both choose same color every other round. Last correct was same Red, so now same Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last same was Red, so now Blue.",
+    "score": 4
+  },
+  {
+    "round": 15,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern: both same color every other round. Last correct was Blue, so now Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color, alternating Red then Blue each cycle.",
+    "score": 4
+  },
+  {
+    "round": 16,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: Both choose same color every other round.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 12 (Blue), so now Red.",
+    "score": 4
+  },
+  {
+    "round": 17,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: both choose same color every two rounds. Last correct was Red, now Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 12, so round 17 should match.",
+    "score": 4
+  },
+  {
+    "round": 18,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern scores when both choose same color after alternating rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 12, so round 18 should match.",
+    "score": 4
+  },
+  {
+    "round": 19,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is both choose same color every two rounds. Last correct was round 12 (Blue), so now Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is two matching rounds then switch. Last correct was both Blue, now match Red.",
+    "score": 4
+  },
+  {
+    "round": 20,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern: both choose same color every other round starting round 2.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is two matching rounds then switch. Last correct was Red-Red, now must match again.",
+    "score": 4
+  },
+  {
+    "round": 21,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern: both choose same color as previous correct round. Last correct was Red-Red, so now Blue-Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 12 (Blue), so now Red.",
+    "score": 4
+  },
+  {
+    "round": 22,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern scores when both choose same color every other round after correct rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every second round after last correct.",
+    "score": 4
+  },
+  {
+    "round": 23,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Correct rounds show both players match colors. Pattern alternates matching colors every other round after scoring.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 12 (Blue), so now Blue.",
+    "score": 4
+  },
+  {
+    "round": 24,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern scores when both choose same color after alternating rounds. Last correct was Blue, so now Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Correct rounds show both choose same color, alternating after each correct.",
+    "score": 4
+  },
+  {
+    "round": 25,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Correct rounds: both chose same color but alternating wins: Red-Red, Blue-Blue, Red-Red, Blue-Blue pattern. Next should be Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is both choose same color every other round. Last correct was round 12, so round 25 should match.",
+    "score": 4
+  },
+  {
+    "round": 26,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Correct rounds show both players choose same color after switching from previous round's same color.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color as previous round's winning choice. Last correct was Blue, so now Red.",
+    "score": 5
+  },
+  {
+    "round": 27,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern is both choose same color every other round. Last correct was Red, so now Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is both choose same color every other round. Last correct was same, so now same again.",
+    "score": 5
+  },
+  {
+    "round": 28,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is both choose same color every other round. Last correct was same Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color every other round. Last correct was round 26.",
+    "score": 5
+  },
+  {
+    "round": 29,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Correct rounds show both choose same color every other round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern: both choose same color only every third round after last correct.",
+    "score": 5
+  },
+  {
+    "round": 30,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern is two consecutive matching rounds after a correct round. Last correct was Red-Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern: both choose same color every third round after correct rounds.",
+    "score": 5
+  }
+]

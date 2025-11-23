@@ -1,0 +1,302 @@
+[
+  {
+    "round": 1,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Starting pattern likely begins with Red to establish sequence.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "First move - establish initial pattern with common starting color.",
+    "score": 0
+  },
+  {
+    "round": 2,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternate after matching to test pattern cycle.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating after mutual Red to test pattern.",
+    "score": 1
+  },
+  {
+    "round": 3,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates: Red, Blue, repeat.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates: Red, Blue, repeat.",
+    "score": 2
+  },
+  {
+    "round": 4,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates: Red, Blue, Red, Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern alternates: Red, Blue, Red, so next is Blue.",
+    "score": 3
+  },
+  {
+    "round": 5,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates each round: Red, Blue, Red, Blue...",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern is both players choose same color each round.",
+    "score": 4
+  },
+  {
+    "round": 6,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates: Red, Blue, Red, Blue. Next is Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern is alternating Red, Blue each round. Player 1 is following same.",
+    "score": 5
+  },
+  {
+    "round": 7,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates: Red, Blue, repeat. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Last was Blue, so now Red.",
+    "score": 6
+  },
+  {
+    "round": 8,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern, next should be Blue after Red.",
+    "score": 7
+  },
+  {
+    "round": 9,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates Red, Blue every round. Next is Red after Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Alternating pattern starting with Red in odd rounds.",
+    "score": 8
+  },
+  {
+    "round": 10,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern alternates Red then Blue each round.",
+    "score": 9
+  },
+  {
+    "round": 11,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round. Next is Red after Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Next is Red after Blue.",
+    "score": 10
+  },
+  {
+    "round": 12,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, Red, Blue...",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Player 1 mirrors my previous choice.",
+    "score": 11
+  },
+  {
+    "round": 13,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates: Red, Blue, repeat. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates each round. Last was Blue, so now Red.",
+    "score": 12
+  },
+  {
+    "round": 14,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat every two rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat. Next is Blue.",
+    "score": 13
+  },
+  {
+    "round": 15,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Last was Blue, so next is Red.",
+    "score": 14
+  },
+  {
+    "round": 16,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round. Next is Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat every two rounds. Next is Blue.",
+    "score": 15
+  },
+  {
+    "round": 17,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Next is Red.",
+    "score": 16
+  },
+  {
+    "round": 18,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue every round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat. Next is Blue.",
+    "score": 17
+  },
+  {
+    "round": 19,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates Red, Blue each round. Next should be Red.",
+    "score": 18
+  },
+  {
+    "round": 20,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat. Next should be Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern alternates Red then Blue each round.",
+    "score": 19
+  },
+  {
+    "round": 21,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates every round: Red, Blue, Red, Blue...",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Pattern alternates: Red, Blue, repeat. Next is Red after Blue.",
+    "score": 20
+  },
+  {
+    "round": 22,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat. Next is Blue.",
+    "score": 21
+  },
+  {
+    "round": 23,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Alternating pattern continues: Red, Blue, Red, Blue...",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Alternating pattern: Red on odd rounds, Blue on even rounds.",
+    "score": 22
+  },
+  {
+    "round": 24,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue each round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat. Next should be Blue.",
+    "score": 23
+  },
+  {
+    "round": 25,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Alternating pattern: Red on odd rounds, Blue on even rounds.",
+    "score": 24
+  },
+  {
+    "round": 26,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat every two rounds.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat every two rounds.",
+    "score": 25
+  },
+  {
+    "round": 27,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Pattern alternates Red, Blue every round. Next is Red.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Alternating pattern: Red on odd rounds, Blue on even. Round 27 is odd.",
+    "score": 26
+  },
+  {
+    "round": 28,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Alternating pattern: Red, Blue, repeat. Next is Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Pattern alternates Red, Blue. Last was Red, so next is Blue.",
+    "score": 27
+  },
+  {
+    "round": 29,
+    "player_1": "deepseek",
+    "color_player_1": "Red",
+    "reasoning_player_1": "Alternating pattern every round, next should be Red after Blue.",
+    "player_2": "deepseek",
+    "color_player_2": "Red",
+    "reasoning_player_2": "Alternating pattern: Red on odd rounds, Blue on even rounds. Next is round 29 (odd).",
+    "score": 28
+  },
+  {
+    "round": 30,
+    "player_1": "deepseek",
+    "color_player_1": "Blue",
+    "reasoning_player_1": "Pattern alternates Red, Blue every round.",
+    "player_2": "deepseek",
+    "color_player_2": "Blue",
+    "reasoning_player_2": "Alternating pattern: Red, Blue, repeat.",
+    "score": 29
+  }
+]
