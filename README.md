@@ -69,7 +69,7 @@ I stored all game data in JSON files (one file per game, e.g., `data/chatgpt_fla
 
 The graph below shows the scoring histograms for each game mode.
 
-![scores](images/llm_scores.jpg)
+![scores](images/llm_scores.png)
 
 The differences are astounding! First, ChatGPT playing with itself never achieves a perfect score, reaching a maximum of 27 points in 44% of games. In contrast, DeepSeek reaches the maximum score of 29 points 45% of the time. 
 
@@ -83,7 +83,7 @@ Overall, DeepSeek achieved more perfect scores, but ChatGPT's median (23.0) exce
 
 The next graph reveals fundamental differences between the models' ability to maintain coordination once established. Analysis of consecutive correct rounds before coordination breaks shows that ChatGPT is less reliable than DeepSeek once it locks onto the correct pattern.
 
-![coordination_break](images/coordination_breaks.jpg)
+![coordination_break](images/coordination_breaks.png)
 
 We can see that even after getting 3, 4 or more consecutive correct rounds, they still break the coordination. Most surprisingly, there are 8 distinct games where ChatGPT breaks the coordination after exactly 16 consecutive correct rounds. Overall, DeepSeek breaks the coordination fewer times than ChatGPT.
 
